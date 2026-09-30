@@ -24,3 +24,11 @@ A data-aggregation project: open, structured, source-pinned datasets for the fro
 ## Contributing
 
 Issues and corrections are welcome. Every contribution must include a source.
+
+## License
+
+All datasets and documentation in this repository are licensed under
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+See [LICENSE](LICENSE) for the full text.
+
+*Maintained by D. Mori — built to aid the frontier, not merely chronicle it.*
